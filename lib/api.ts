@@ -1,4 +1,4 @@
-﻿const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "distant-toby-ravi-student-340ca24d.koyeb.app/";
+﻿const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";
 
 export interface User {
   id: number;
